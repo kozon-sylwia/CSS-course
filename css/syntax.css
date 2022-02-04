@@ -1,0 +1,11 @@
+span[class~="deck"]{
+    color: purple;
+}
+
+div[id]{
+    background: grey;
+}
+
+a[href^="http"]{
+    color:pink;
+}
