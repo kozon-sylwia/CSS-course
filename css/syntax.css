@@ -1,0 +1,11 @@
+#header p{
+    text-transform: capitalize;
+}
+
+body{
+    text-transform: uppercase;
+}
+
+body > p{
+    text-transform: none;
+}
