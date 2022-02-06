@@ -1,0 +1,14 @@
+.button{
+    display: block;
+    width: 100px;
+    padding: 12px;
+    border: 1px solid #77aaaa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffff;
+    font-size: 14 px;
+    text-align: center;
+    border-radius: 4px;
+    background: #aadddd;
+}
